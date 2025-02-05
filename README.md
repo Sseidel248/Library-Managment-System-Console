@@ -1,6 +1,7 @@
 # Library Managment System Console
 A Library Management System on Windows Console. 
 Inheritance, design patterns and OOP should be trained.
+I used the Null Object Design Pattern to avoid null pointers.
 
 ## Function to be implemented
 1. Basic structure
