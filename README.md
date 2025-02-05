@@ -1,4 +1,4 @@
-# Library-Managment-System-Console-
+# Library Managment System Console
 A Library Management System on Windows Console. 
 Inheritance, design patterns and OOP should be trained.
 
